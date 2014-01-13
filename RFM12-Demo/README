@@ -1,0 +1,3 @@
+Beispielprogramme zum Senden und Empfangen. Ich habe hier im Wesentlichen die Programme von oppes kopiert. Man braucht zwei Arduinos und zwei RFM12 Module. Der eine sendet einen konstant ansteigenden Zähler aus. Der andere gibt die empfangenen Daten auf der seriellen Konsole aus. Voilá! - Deine erste Funkstrecke!
+
+Blogpost:
